@@ -1,4 +1,3 @@
 # .github
 
-Hellow World! 
-We're Tripn!
+# Hello World! We're Tripn!
